@@ -1,0 +1,28 @@
+_repo: The-American-Empire_27787
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nearing, Scott
+    birthdate: 1883
+    deathdate: 1983
+    gutenberg_agent_id: '4313'
+    url: http://www.gutenberg.org/2009/agents/4313
+    wikipedia: http://en.wikipedia.org/wiki/Scott_Nearing
+description: ''
+gutenberg_issued: '2009-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Economic conditions -- 1918-1945'
+- !lcsh 'United States -- History'
+- !lcc 'HC'
+title: The American Empire
+url: http://www.gutenberg.org/ebooks/27787
